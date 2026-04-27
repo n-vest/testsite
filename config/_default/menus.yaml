@@ -1,0 +1,17 @@
+# Navigation Links
+#   To link a homepage section, specify the URL as a hash `#` followed by the
+#   section `id` defined in `content/_index.md`.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Projects
+    url: '#projects'
+    weight: 20
+  - name: Consulting
+    url: /consulting/
+    weight: 30
+  - name: CV
+    url: uploads/cv_navest.pdf
+    weight: 40

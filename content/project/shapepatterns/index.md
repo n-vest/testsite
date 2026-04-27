@@ -1,0 +1,18 @@
+---
+title: Supporting Children's Patterning
+summary: How can instructional strategies, such as the use of gestures and perceptual support, enhance young children's ability to recognize and understand shape patterns, and how does this impact their numerical knowledge?
+tags:
+  - Patterns
+date: '2024-05-24T00:00:00Z'
+---
+<font size="-1">Mathematics is essentially the science of patterns. Children are constantly recognizing and encoding patterns in their environment. Importantly, children’s ability to recognize shape patterns (e.g., square, circle, circle, square, circle, circle) is related to their numerical knowledge. Part of my research focuses on approaches to teaching patterning skills to young children. <br>
+In one study, I investigated whether an instructor's gestures could help children identify pattern units and improve their performance in patterning tasks. Additionally, I examined whether having children mimic those gestures helped. The inclusion of gestures by the experimenter (speech plus gesture) did not significantly affect children's learning outcomes compared to using speech alone. Children who were explicitly instructed to mimic the experimenter's behavior (whether speech or speech plus gesture) performed worse on the posttest than those who were not given mimicry instructions. This indicates that instructed mimicry might hinder learning rather than help it. However, children's <i>spontaneous</i> mimicry of the experimenter’s speech (but not gestures) was positively associated with better posttest performance. This suggests that when children choose to mimic speech on their own, it can enhance their learning. <br>
+In another study, I examined whether providing perceptual support, such as drawing a line under the pattern unit, would help children recognize the pattern units more effectively. I am currently preparing a manuscript with these results. <br>
+In future research, I hope to investigate whether college students can identify patterns in small datasets, specifically focusing on detecting positive and negative linear slopes. <br>
+
+<strong>Selected Works:</strong> <br>
+Vest, N. A., Anthony, L. E., Callery, K., Shack, A. P., Becerra, C., Maheshwary, P., & Alibali, M.W. (2024, June). <span style="color:green">Does focusing on the unit of change help children extend and abstract shape and number patterns? </span>In N.A. Vest (Chair), Pattern learning: Empirical research about interventions, parental beliefs, and links to mathematical competence in children. Symposium presented at the Annual Meeting of the Mathematical and Cognition Learning Society Conference. [[slides]](https://www.researchgate.net/publication/382865674_Does_focusing_on_the_unit_of_change_help_children_extend_and_abstract_shape_and_number_patterns)
+
+Vest, N. A., Anthony, L. E., Becerra, C., Maheshwary, P., Callery, K., Shack, A. P., & Alibali, M. W. (2024, March). <span style="color:green">Learning to extend shape and number patterns: Do lessons focused on the pattern unit help?</span> [Poster] Biennial Meeting of the Cognitive Development Society. [[poster]](http://dx.doi.org/10.13140/RG.2.2.20787.64804)
+
+Vest, N. A., Fagan, S. E., & Fyfe, E. R. (2022). <span style="color:green">The role of gesture and mimicry for children’s pattern learning.</span> Cognitive Development. [[paper]](https://www.researchgate.net/publication/361265082_The_role_of_gesture_and_mimicry_for_children's_pattern_learning)</font>
